@@ -22,4 +22,4 @@ let humanAndCantacts: HumanAndContacts = {
     address:'서울시'
 }
 
-type NumberAndString = number & string;
+type NumberAndString = number & string; //never타입
